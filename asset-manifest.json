@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a78a2747.chunk.css",
+    "main.js": "/static/js/main.d990c1e2.chunk.js",
+    "main.js.map": "/static/js/main.d990c1e2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b2fbae26.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b2fbae26.js.map",
+    "static/js/2.427a326e.chunk.js": "/static/js/2.427a326e.chunk.js",
+    "static/js/2.427a326e.chunk.js.map": "/static/js/2.427a326e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.821ae46772613eaebd6c30c2d68bd9f7.js": "/precache-manifest.821ae46772613eaebd6c30c2d68bd9f7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a78a2747.chunk.css.map": "/static/css/main.a78a2747.chunk.css.map",
+    "static/media/01.jpg": "/static/media/01.124666d7.jpg",
+    "static/media/App.css": "/static/media/starbucks.c4b0ab10.jpg",
+    "static/media/01.mp4": "/static/media/01.68ce48d4.mp4",
+    "static/media/02.jpg": "/static/media/02.16ac9f53.jpg",
+    "static/media/03.jpg": "/static/media/03.46b4bc4a.jpg",
+    "static/media/04.jpg": "/static/media/04.a49ae7d6.jpg",
+    "static/media/05.jpg": "/static/media/05.343a0cf9.jpg",
+    "static/media/flecha.svg": "/static/media/flecha.e0f828bb.svg",
+    "static/media/middleLogo.webp": "/static/media/middleLogo.058d963b.webp",
+    "static/media/premio_abc.svg": "/static/media/premio_abc.6e0ee21e.svg",
+    "static/media/premio_awwwards.svg": "/static/media/premio_awwwards.eaa6b758.svg",
+    "static/media/premio_cnet.svg": "/static/media/premio_cnet.6fcccf49.svg",
+    "static/media/premio_cnn.svg": "/static/media/premio_cnn.53e90924.svg",
+    "static/media/premio_css.svg": "/static/media/premio_css.3bb4a833.svg",
+    "static/media/premio_elmundo.svg": "/static/media/premio_elmundo.788f2ec7.svg",
+    "static/media/premio_expansion.svg": "/static/media/premio_expansion.86daa569.svg",
+    "static/media/premio_fwa.svg": "/static/media/premio_fwa.d5d8ce8c.svg",
+    "static/media/premio_lavanguardia.svg": "/static/media/premio_lavanguardia.074e26c4.svg",
+    "static/media/premio_lifehacker.svg": "/static/media/premio_lifehacker.df0b7cea.svg",
+    "static/media/premio_rtve.svg": "/static/media/premio_rtve.a07db260.svg",
+    "static/media/premio_vocento.svg": "/static/media/premio_vocento.c6d6a711.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2fbae26.js",
+    "static/js/2.427a326e.chunk.js",
+    "static/css/main.a78a2747.chunk.css",
+    "static/js/main.d990c1e2.chunk.js"
+  ]
+}
