@@ -1,2 +1,2 @@
 # stockholm
-Portfolio website in react,
+Portfolio website in react.
